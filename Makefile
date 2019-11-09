@@ -27,7 +27,7 @@ else
 
 VPATH = .. 
 
-GCC_BIN ?= /usr/bin/
+GCC_BIN =
 PROJECT = frdm_MPU9250
 OBJECTS = ./main.o 
 SYS_OBJECTS = \
